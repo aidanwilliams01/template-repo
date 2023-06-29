@@ -2,24 +2,21 @@
 
 #### (Brief Description of Application)
 
-#### By (Your Name Here)
+#### By Aidan Williams
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
+* _HTML_
+* _CSS_
+* _Javascript_
 * _here_
 
 ## Description
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Clone this repository to your desktop._
+* _Navigate to the top level of the directory._
 
 ## Known Bugs
 

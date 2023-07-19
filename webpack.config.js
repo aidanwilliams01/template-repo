@@ -22,7 +22,8 @@ module.exports = {
       title: 'Shape Tracker',
       template: './src/index.html',
       inject: 'body'
-    })
+    }),
+    new Dotenv()
   ],
   module: {
     rules: [
